@@ -51,9 +51,9 @@
 
 ## Data Serving
 
-Querying: Data analysts and Business analysts can use SQL to query and aggregate the data
-Dashboards: Our warehouse can also feed visualization dashboards to track complaint volume and how long we are taking to respond and also potential trends in complaints
-APIs - We can create an API that queries our warehouse, it will be linked to a frontend and our agents can resolve complaints
++ Querying: Data analysts and Business analysts can use SQL to query and aggregate the data
++ Dashboards: Our warehouse can also feed visualization dashboards to track complaint volume and how long we are taking to respond and also potential trends in complaints
++ APIs - We can create an API that queries our warehouse, it will be linked to a frontend and our agents can resolve complaints
 
 ## Orchestration and monitoring
 
